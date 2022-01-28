@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 1
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 2
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 3
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 4
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 5
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 6
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 7
+    },
+    {
+        "name": "Bici",
+        "price": 2000,
+        "thumbnail": "url://someUrl.com/fakeUrl.jpg",
+        "id": 8
+    }
+]
